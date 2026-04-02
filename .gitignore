@@ -1,3 +1,6 @@
+.env
 venv/
-face_landmarker.task
+__pycache__/
 *.pyc
+*.task
+temp_enrollment.jpg
