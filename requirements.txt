@@ -7,6 +7,8 @@ cloudinary==1.44.1
 deepface==0.0.99
 mediapipe==0.10.33
 opencv-python-headless
-numpy
+tensorflow==2.16.1
+tf-keras==2.16.0
+numpy<2.0.0
 pandas
 requests
